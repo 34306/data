@@ -1,0 +1,4 @@
+jp = 'https://cat.mer.moe/api/'
+other = 'https://cat.mer.moe/api/v2/'
+check = '/check'
+show = '/show'
